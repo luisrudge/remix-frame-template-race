@@ -1,0 +1,16 @@
+{
+  "name": "remix-frame-template-race",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node check.js"
+  },
+  "dependencies": {
+    "@remix-run/component": "1.0.0"
+  },
+  "devDependencies": {
+    "playwright": "1.63.0"
+  },
+  "packageManager": "pnpm@12.8.1"
+}
